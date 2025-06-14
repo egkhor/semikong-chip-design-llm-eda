@@ -1,4 +1,4 @@
-# SemiKong Chip Design True LLM
+# SemiKong Chip Design True LLM with EDA Tool Integration
 
 An open-source AI/ML project to optimize semiconductor chip design using a fine-tuned LLM (DistilBERT) and EDA tool integration. Predicts defects with tabular data, analyzes design notes, and validates via Synopsys API, deployable on iOS/macOS with CoreML.
 
