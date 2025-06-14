@@ -75,7 +75,7 @@ semikong-chip-design-llm/
 - **Future Work**: Explore larger LLMs or Cadence integration.
 
 ## Contributing
-See [CONTRIBUTING.md]([CONTRIBUTING.markdown]).
+See [CONTRIBUTING.markdown]([CONTRIBUTING.markdown]).
 
 ## License
 MIT License. See [LICENSE](LICENSE).
