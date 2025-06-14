@@ -75,7 +75,7 @@ semikong-chip-design-llm/
 - **Future Work**: Explore larger LLMs or Cadence integration.
 
 ## Contributing
-See [CONTRIBUTING.markdown]([[CONTRIBUTING.markdown](https://github.com/egkhor/semikong-chip-design-llm-eda/blob/main/CONTRIBUTING.markdown)]).
+See [CONTRIBUTING.markdown]([(https://github.com/egkhor/semikong-chip-design-llm-eda/blob/main/CONTRIBUTING.markdown)]).
 
 ## License
 MIT License. See [LICENSE](LICENSE).
