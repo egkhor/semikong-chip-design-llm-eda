@@ -1,4 +1,4 @@
-# Contributing to SemiKong Chip Design LLM
+# Contributing to SemiKong Chip Design LLM with EDA
 
 Join us to revolutionize semiconductor chip design with AI! Contribute by:
 
